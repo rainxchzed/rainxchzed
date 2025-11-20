@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Rain
+# 👋 Hey there, I’m Usmon
 ### (a.k.a) Rainxch Zed or Rain
 
 I'm an **Native Android / Kotlin Multiplatform Developer**, passionate about **Jetpack Compose** and all things **Kotlin**.  
