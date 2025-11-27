@@ -24,13 +24,13 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=XDdevv&theme=date_night" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XDdevv&theme=date_night" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rainxchzed&theme=date_night" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rainxchzed&theme=date_night" height="180"/>
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=XDdevv&theme=date_night" 
+    src="https://streak-stats.demolab.com/?user=rainxchzed&theme=date_night" 
     width="98%" 
     style="max-height:400px; object-fit:contain;" 
     alt="GitHub streak stats"
