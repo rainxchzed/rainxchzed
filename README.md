@@ -8,8 +8,8 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 
 ## 🚀 Currently Focusing On
 
-- Compose Multiplatform (Android + iOS + Desktop + Web)
 - Open source contributions
+- Kotlin Multiplatform (Android + iOS + Desktop + Web)
 - Math
 
 ---
@@ -17,7 +17,6 @@ Currently building with Compose and exploring Compose Multiplatform (Android · 
 ## ✨ Important Facts
 
 - I am the part of Philipp Lackner’s [Mobile Dev Campus](https://pl-coding.com/campus/) community (5 times in-row 1st place holder and in total 6 times 🥇).
-- Currently Mentoring Senior Android Developer about Compose.
 
 ---
 
