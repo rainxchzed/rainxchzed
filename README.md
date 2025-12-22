@@ -46,26 +46,28 @@
 MVVM · MVI · Clean Architecture · SOLID Principles
 
 ---
+<details>
+<summary><h3>🌍 Open Source Contributions</h3></summary>
 
-## 🌍 Open Source Contributions
+### Google’s Android Compose Samples
+- [PR #1603](https://github.com/android/compose-samples/pull/1603): Animate follow icon rotation in Jetcaster
 
-- **[Google’s Android Compose Samples](https://github.com/android/compose-samples)**
-  - [PR #1603](https://github.com/android/compose-samples/pull/1603):  Animate follow icon rotation in Jetcaster
+### RevenueCat Slide-to-Unlock
+- [PR #2](https://github.com/RevenueCat/slide-to-unlock/pull/2): Add vertical orientation support
 
-- **[RevenueCat Slide-to-Unlock](https://github.com/RevenueCat/slide-to-unlock)**
-  - [PR #2](https://github.com/RevenueCat/slide-to-unlock/pull/2): feat: add vertical orientation support to SlideToUnlock.
+### Pokedex (by Skydoves)
+- [PR #375](https://github.com/skydoves/Pokedex/pull/375): Kotlin 2.2.10 + KSP compatibility fix
 
-- **[Pokedex (by Skydoves)](https://github.com/skydoves/Pokedex)**
-  - [PR #375](https://github.com/skydoves/Pokedex/pull/375): Migrated to `compilerOptions` DSL to fix Kotlin 2.2.10 + KSP compatibility issues.
+### Pokedex-compose (by Skydoves)
+- [PR #43](https://github.com/skydoves/pokedex-compose/pull/43): Splash screen branding
+- [PR #41](https://github.com/skydoves/pokedex-compose/pull/41): Backup policy compatibility (Android 12+)
+- [PR #42](https://github.com/skydoves/pokedex-compose/pull/42): Suppress back callback API warning
 
-- **[Pokedex-compose (by Skydoves)](https://github.com/skydoves/Pokedex-compose)**
-  - [PR #43](https://github.com/skydoves/pokedex-compose/pull/43):  Implement splash screen with red background to match XML version branding
-  - [PR #41](https://github.com/skydoves/pokedex-compose/pull/41):  Add dataExtractionRules to suppress allowBackup deprecation warning and ensure compatibility with Android 12+ backup policies
-  - [PR #42](https://github.com/skydoves/pokedex-compose/pull/42):  Suppress enableOnBackInvokedCallback API level warning with tools:targetApi 
+### OpenCalc
+- Uzbek language localization
 
-- **[OpenCalc by clementwzk](https://github.com/clementwzk/OpenCalc)**
-  -  Implemented Uzbek language localization for app
----
+</details>
+
 
 ## 📬 Reach Me
 
