@@ -42,10 +42,8 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-181A18?style=for-the-badge&logo=AndroidStudio)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-181A18?style=for-the-badge&logo=IntelliJIDEA)
 
-**Architecture & Patterns**  
-MVVM · MVI · Clean Architecture · SOLID Principles
-
 ---
+
 <details>
 <summary><h3>🌍 Open Source Contributions</h3></summary>
 
@@ -63,11 +61,12 @@ MVVM · MVI · Clean Architecture · SOLID Principles
 - [PR #41](https://github.com/skydoves/pokedex-compose/pull/41): Backup policy compatibility (Android 12+)
 - [PR #42](https://github.com/skydoves/pokedex-compose/pull/42): Suppress back callback API warning
 
-### OpenCalc
-- Uzbek language localization
+### [OpenCalc](https://github.com/clementwzk/OpenCalc)
+- Localization for Uzbek language
 
 </details>
 
+---
 
 ## 📬 Reach Me
 
