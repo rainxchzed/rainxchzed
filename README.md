@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Usmon
-(a.k.a) rainxchzed (if you struggle to say then just call me rain 🤝 )
+(a.k.a) rainxchzed (if you struggle to pronounce it then just call me rain 🤝 )
 
 ### I'm an **Native Android & Kotlin Multiplatform Developer**, passionate about **Open source**.
 
