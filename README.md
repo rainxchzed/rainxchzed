@@ -15,6 +15,7 @@
 
 ## ✨ Important Facts
 
+- I maintain the [GitHub Store](https://github.com/rainxchzed/Github-Store/) project
 - I am the part of Philipp Lackner’s [Mobile Dev Campus](https://pl-coding.com/campus/) community (6 times in-row 1st place holder and in total 7 times 🥇).
 
 ---
@@ -36,11 +37,6 @@
 ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-181A18?style=for-the-badge&logo=JetpackCompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-181A18?style=for-the-badge&logo=Android)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-181A18?style=for-the-badge&logo=JetpackCompose)
-
-**Favourite IDE's**  
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-181A18?style=for-the-badge&logo=AndroidStudio)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-181A18?style=for-the-badge&logo=IntelliJIDEA)
 
 ---
 
