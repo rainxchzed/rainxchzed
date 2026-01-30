@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rainxchzed&show_icons=true&hide_border=true&theme=date_night" height="180"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rainxchzed&theme=date_night" height="180"/>
 
-  <a href="https://u8views.com/github/rainxchzed"><img src="https://u8views.com/api/v1/github/profiles/151833656/views/day-week-month-total-count.svg"></a>
+  ![Profile views](https://views.igorkowalczyk.dev/api/badge/rainxchzed?color=pink?format=short?label=Profile+Views)
 </p>
 
 ---
