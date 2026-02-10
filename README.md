@@ -8,7 +8,9 @@
 ## ✨ Important Facts
 
 - I maintain the [GitHub Store](https://github.com/rainxchzed/Github-Store/) project
-- I am the part of Philipp Lackner’s [Mobile Dev Campus](https://pl-coding.com/campus/) community (6 times in-row 1st place holder and in total 7 times 🥇).
+- I am the part of Philipp Lackner’s [Mobile Dev Campus](https://pl-coding.com/campus/) community, where I've archived:
+  - 🥇 8x First place 
+  - 🥈 2x Second place
 
 ---
 
