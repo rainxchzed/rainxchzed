@@ -50,5 +50,4 @@ Still in the research + vision phase. If this sounds interesting, feel free to r
 ## 📬 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-rainxch.dev@gmail.com-181A18?style=for-the-badge&logo=gmail)](mailto:rainxch.dev@gmail.com)
-[![Email](https://img.shields.io/badge/Email-rainxchzed@gmail.com-181A18?style=for-the-badge&logo=gmail)](mailto:rainxchzed@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Frainxchzed-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rainxchzed)
