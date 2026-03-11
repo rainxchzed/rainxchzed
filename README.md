@@ -1,7 +1,7 @@
 # Hey, I'm Usmon 👋
 *(a.k.a rainxchzed — if you struggle to pronounce it, just call me rain 🤝)*
 
-I'm a 16-year-old Native Android & Kotlin Multiplatform developer from Tashkent, Uzbekistan.
+I'm a 16-year-old Native Android & Kotlin Multiplatform developer from Bukhara, Uzbekistan.
 I've been coding since I was 11. I build things people actually use.
 
 ---
