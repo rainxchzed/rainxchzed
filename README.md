@@ -1,37 +1,35 @@
+<p align="center">
+  
 # Hey, I'm Usmon 👋
-*(a.k.a rainxchzed — if you struggle to pronounce it, just call me rain 🤝)*
+and/or **rainxchzed**
 
-I'm a 16-year-old Native Android & Kotlin Multiplatform developer from Bukhara, Uzbekistan.
-I've been coding since I was 11. I build things people actually use.
+I'm a 16-year-old Native Android & Kotlin Multiplatform developer. I've been coding since I was 11. I build things non-tech users can use with ease. And i love beautiful UI's and Open source.
+
+</p>
 
 ---
 
 ## 🚀 GitHub Store
 
 I built [**GitHub Store**](https://github.com/OpenHub-Store/GitHub-Store) — a free, open-source app store that turns GitHub releases into a browsable, one-click install experience across Android, Desktop (Windows, macOS, Linux).
-
-**130,000+ downloads · 7,900+ GitHub stars** — in ~3 months after launch.
-
 Built with Kotlin Multiplatform + Compose Multiplatform. One codebase, every platform.
-
-It exists because I was frustrated that Google makes it unnecessarily hard to discover and install apps outside the Play Store. GitHub Store is my answer to that.
 
 ---
 
 ## 🏆 Philipp Lackner's Mobile Dev Campus
 
-Competing against ~500 developers each round:
+Competing against ~400 developers each round:
 
 - 🥇 **9× First place**
 - 🥈 2× Second place
 
-One of those wins involved teaching Jetpack Compose architecture to a developer with 10 years of experience. I learn fast. I also teach.
+I was also involved in teaching Jetpack Compose to a developer with 10 years of experience.
 
 ---
 
 ## 🔭 What I'm Building Next
 
-The logical next step after GitHub Store: a **mobile OS** designed to give users complete control over their device — beautiful by default, installable by anyone, free from corporate gatekeeping.
+a **mobile OS** designed to give users complete control over their device — beautiful by default, installable by anyone, free from corporate gatekeeping.
 
 The core insight: every alternative mobile OS today fails on installation complexity and UI quality. I want to fix both.
 
