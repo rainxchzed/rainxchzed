@@ -3,7 +3,7 @@
 # Hey, I'm Usmon 👋
 and/or **rainxchzed**
 
-I'm a 16-year-old Native Android & Kotlin Multiplatform developer. I've been coding since I was 11. I build things non-tech users can use with ease. And i love beautiful UI's and Open source.
+I'm a 16-year-old Native Android & Kotlin Multiplatform developer. I've been coding since I was 11. I build things non-tech users can use with ease. Btw i love beautiful UI's and Open source.
 
 </p>
 
@@ -24,16 +24,6 @@ Competing against ~400 developers each round:
 - 🥈 2× Second place
 
 I was also involved in teaching Jetpack Compose to a developer with 10 years of experience.
-
----
-
-## 🔭 What I'm Building Next
-
-a **mobile OS** designed to give users complete control over their device — beautiful by default, installable by anyone, free from corporate gatekeeping.
-
-The core insight: every alternative mobile OS today fails on installation complexity and UI quality. I want to fix both.
-
-Still in the research + vision phase. If this sounds interesting, feel free to reach out.
 
 ---
 
