@@ -1,11 +1,7 @@
-<p align="center">
-  
 # Hey, I'm Usmon 👋
 and/or **rainxchzed**
 
-I'm a 16-year-old Native Android & Kotlin Multiplatform developer. I've been coding since I was 11. I build things non-tech users can use with ease. Btw i love beautiful UI's and Open source.
-
-</p>
+I'm a 17-year-old Native Android & Kotlin Multiplatform developer. I've been coding since I was 11. I love building software for non-tech users - easily understandable and usable!
 
 ---
 
