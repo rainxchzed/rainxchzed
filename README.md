@@ -1,25 +1,7 @@
-# Hey, I'm Usmon 👋
+# Hey, there, i am Usmon
 and/or **rainxchzed**
 
-I'm a 17-year-old Native Android & Kotlin Multiplatform developer. I've been coding since I was 11. I love building software for non-tech users - easily understandable and usable!
-
----
-
-## 🚀 GitHub Store
-
-I built [**GitHub Store**](https://github.com/OpenHub-Store/GitHub-Store) — a free, open-source app store that turns GitHub releases into a browsable, one-click install experience across Android, Desktop (Windows, macOS, Linux).
-Built with Kotlin Multiplatform + Compose Multiplatform. One codebase, every platform.
-
----
-
-## 🏆 Philipp Lackner's Mobile Dev Campus
-
-Competing against ~400 developers each round:
-
-- 🥇 **9× First place**
-- 🥈 2× Second place
-
-I was also involved in teaching Jetpack Compose to a developer with 10 years of experience.
+I'm a 17-year-old Native Android & Kotlin Multiplatform developer and Founder & CEO of Kurikomi, Inc.
 
 ---
 
@@ -33,5 +15,5 @@ I was also involved in teaching Jetpack Compose to a developer with 10 years of 
 
 ## 📬 Reach Me
 
-[![Email](https://img.shields.io/badge/Email-rainxch.dev@gmail.com-181A18?style=for-the-badge&logo=gmail)](mailto:rainxch.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-usmon@kurikomi.com-181A18?style=for-the-badge&logo=gmail)](mailto:rainxch.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Frainxchzed-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rainxchzed)
