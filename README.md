@@ -5,10 +5,6 @@ I'm a 17-year-old Native Android & Kotlin Multiplatform developer and Founder & 
 
 ---
 
-CA: `14XEn3jXunfGXL6S97VVyqDMEzvjwVQUzCqts4Repump`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
