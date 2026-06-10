@@ -1,4 +1,4 @@
-# Hey, there, i am Usmon
+# Hello there, i am Usmon
 and/or **rainxchzed**
 
 I'm a 17-year-old Native Android & Kotlin Multiplatform developer and Founder & CEO of Kurikomi, Inc.
